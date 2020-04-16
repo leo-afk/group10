@@ -3,7 +3,7 @@
 <head>
 	<title></title>
 </head>
-<link rel="stylesheet" href="Assigment 2 listpage2 style.css">
+<link rel="stylesheet" href="Assigment 2 listpage1 style.css">
 <link rel="icon" href="image/Icon.png" type="image/gif" sizes="16x16">
 <body class="webpage">
 	<div>
@@ -30,8 +30,12 @@
 				<div>
 					<span class="font" >Color</span>
 						<select name="color" id="color" >
+							
 								<option value="black">Black</option>
+							
+							
 								<option value="white">White</option>
+							
 						</select>
 					<span class="font">Price
 						<select name="price" id="price">
@@ -51,35 +55,35 @@
 						<table>
 							<tr>
 								<th>
-									<a href="AdidasOzweegoWhite.html">
-										<img src="image/shoes/WB_ozweego.jpg" alt="loading" width="300" height="300" class="zoom">
-										<div align="center" class="shoesname">Adidas Ozweego (White & Black)</div>
+									<a href="NikeAirMax98.html">
+										<img src="image/shoes/W_NikeAirMax.jpg" alt="loading" width="300" height="300" class="zoom">
+										<div align="center" class="shoesname">Nike AirMax 98 (White)</div>
 									</a>
 								</th>
 								<th>
-									<a href="AdidasOzweegoWhitePink.html">
-										<img src="image/shoes/WP_ozwegoo.jpg." alt="loading"width="300" height="300" class="zoom">
-										<div align="center" class="shoesname">Adidas Ozweego (White & Pink)</div>
+									<a href="NikeAirMax270.html">
+										<img src="image/shoes/W_NikeAir.jpg" alt="loading" width="300" height="300" class="zoom">
+										<div align="center" class="shoesname">Nike AirMax 270 (White)</div>
 									</a>
 								</th>
 								<th>
-									<a href="AdidasOzweegoBlack.html">
-										<img src="image/shoes/B_ozweego.png" alt="loading" width="300" height="300" class="zoom">
-										<div align="center" class="shoesname">Adidas Ozweego Black</div>
+									<a href="NikeCortez.html">
+										<img src="image/shoes/B_NikeCortez.jpg." alt="loading"width="300" height="300" class="zoom">
+										<div align="center" class="shoesname">Nike Cortez (Black)</div>
 									</a>
 								</th>
 							</tr>
 							<tr>
 								<th>
-									<a href="AdidasUltraboost.html">
-										<img src="image/shoes/W_ultraboost.jpg" alt="loading"width="300" height="300" class="zoom">
-										<div align="center" class="shoesname">Adidas Ultraboost (White)</div>
+									<a href="NikePresto.html">
+										<img src="image/shoes/B_NikePresto.jpg" alt="loading"width="300" height="300" class="zoom">
+										<div align="center" class="shoesname">Nike Presto (Black)</div>
 									</a>
 								</th>
 								<th>
-									<a href="AdidasOzweegoBlackLight.html">
-										<img src="image/shoes/BL_ozweego.jfif" alt="loading" width="300" height="300" class="zoom">
-										<div align="center" class="shoesname">Adidas Ozweego (Black Light)</div>
+									<a href="NikeReact.html">
+										<img src="image/shoes/BW_NikeReact.jpg" alt="loading"width="300" height="300" class="zoom">
+										<div align="center" class="shoesname">Nike React (Black & White)</div>
 									</a>
 								</th>
 								<th></th>
